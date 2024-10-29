@@ -18,7 +18,7 @@ Live Website :
 - Clone the project
 
 ```bash
-https://github.com/Rahul-Malakar/Library.git
+https://github.com/Parthib-toppo/LibMan.git
 ```
 ### Or
 - Download repo.
